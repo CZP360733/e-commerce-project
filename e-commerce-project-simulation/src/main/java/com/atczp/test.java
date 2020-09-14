@@ -10,7 +10,7 @@ public class test {
 
     public void programmer1word(){
         System.out.println("小米写了一天的代码");
+        System.out.println("代码写完了");
     }
-
 
 }
